@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="30f691ed-0e0a-4120-a563-1db0b03a53a8" name="DrupalVM" url="http://192.168.88.88">
+        <fileTransfer host="192.168.88.88" port="22" privateKey="$USER_HOME$/.vagrant.d/insecure_private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
